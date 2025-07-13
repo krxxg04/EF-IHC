@@ -1,14 +1,15 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open Inicio.html",
-            "file": "c:\\Users\\Alumnos\\Desktop\\EF-IHC-U202312629\\Inicio.html"
+            "name": "Iniciar Inicio.html en Chrome",
+            "file": "c:/Users/Windows 1/OneDrive/Escritorio/UPC-Ciclo lV/IHC/EF-IHC-U202312629/Inicio.html",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
